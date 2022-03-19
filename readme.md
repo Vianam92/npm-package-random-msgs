@@ -2,7 +2,10 @@
 
 ### Install
 
-- npm i -g random-messages-paqt
+ ```
+ npm i -g random-messages-paqt
+ 
+ ```
 
 ### Usage
 
